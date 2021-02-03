@@ -12,7 +12,7 @@ The above steps can be seen in preprocess.py
 - Built the model using Keras and Tensorflow
 
 
-![Alt text](network.gv_1.png?raw=true "Title")
+![Alt text](network.gv-1.png?raw=true "Title")
 
 
 ```python
