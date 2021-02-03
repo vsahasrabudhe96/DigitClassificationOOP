@@ -1,13 +1,13 @@
 # DigitClassificationOOP
 
-## PREPROCESSING
+## PREPROCESSING (preprocess.py)
 
 Most of the basic steps of preprocessing for images are done
 - Normalizing
 - Reshaping
-The above steps can be seen in preprocess.py
 
-## MODEL BUILDING
+
+## MODEL BUILDING (model.py)
 - Created a local package for building the model
 - Built the model using Keras and Tensorflow
 
