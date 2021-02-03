@@ -11,7 +11,7 @@ The above steps can be seen in preprocess.py
 -Created a local package for building the model
 -Built the model using Keras and Tensorflow
 
-![Alt text](relative/path/to/img.jpg?raw=true "Title")
+![Alt text](model_plot.png?raw=true "Title")
 
 
 ```python
@@ -22,4 +22,4 @@ python main.py
 - An accuracy of 98 percent was achieved on this dataset.
 
 ## RESULTS
-![Alt text](relative/path/to/img.jpg?raw=true "Title")
+![Alt text](Output.png?raw=true "Title")
