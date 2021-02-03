@@ -11,8 +11,8 @@ The above steps can be seen in preprocess.py
 -Created a local package for building the model
 -Built the model using Keras and Tensorflow
 
-![Alt text](model_plot.png?raw=true "Title")
-![Alt text](network.gv.pdf?raw=true "Title")
+
+![Alt text](network.gv_1.png?raw=true "Title")
 
 
 ```python
