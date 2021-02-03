@@ -8,8 +8,8 @@ Most of the basic steps of preprocessing for images are done
 The above steps can be seen in preprocess.py
 
 ## MODEL BUILDING
--Created a local package for building the model
--Built the model using Keras and Tensorflow
+- Created a local package for building the model
+- Built the model using Keras and Tensorflow
 
 
 ![Alt text](network.gv_1.png?raw=true "Title")
